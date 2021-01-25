@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/vishaljadav24/react-native-hide-show-password-input#readme",
   "dependencies": {
-    "react-native-material-textfield": "vishaljadav24/react-native-material-textfield",
+    "react-native-material-textfield": " n4kz/react-native-material-textfield",
     "react-native-vector-icons": "^7.1.0",
     "prop-types": "^15.7.2"
   },
